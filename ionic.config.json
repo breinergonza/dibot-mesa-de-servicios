@@ -1,6 +1,6 @@
 {
   "name": "dibot-mesa-de-servicios",
-  "app_id": "",
+  "app_id": "fd7714e4",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
