@@ -1,11 +1,6 @@
-page-home {}
-
 #newsframe {
-    //set the height to 100% of the viewport less the height of the header
     height: calc(95vh - 60px);
-    //set the width to 100% of the viewport width
     width: 94vw;
-    //remove border, padding, margin
     border: none;
     padding: 0;
     margin: 0;
